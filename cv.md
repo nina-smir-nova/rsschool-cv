@@ -20,3 +20,12 @@ Illustrator
 InDesign
 Figma
 
+
+
+### Education
+Moscow Technical School of Creative Industries(Graphic designer)
+
+
+
+### Languages
+Russian - native speaker
