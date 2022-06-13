@@ -1,0 +1,9 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    background-color: lightblue;
+}
+.photo {
+    width: 25%;
+    border-radius: 10px
+}
